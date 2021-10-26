@@ -1,3 +1,7 @@
 [submodule "StudentApp-server"]
 	path = StudentApp-server
 	url = https://github.com/hug58/StudentApp-server.git
+
+[submodule "StudentApp-Client"]
+	path = StudentApp-Client
+	url = https://github.com/hug58/StudentApp-Client.git
